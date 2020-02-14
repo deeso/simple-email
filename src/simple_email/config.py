@@ -1,4 +1,4 @@
-from standard_logger.standard_logger import Logger
+from .standard_logger import Logger
 from .consts import *
 import traceback
 import toml
